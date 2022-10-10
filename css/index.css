@@ -104,7 +104,7 @@ body {
   margin-top: 10px;
   max-width: 700px;
   background-color: rgba(255, 255, 255, 0.9);
-  border: 2px solid #5b3893;
+  border: 2px solid #000000;
   border-radius: 8px;
   padding: 15px 20px;
   display: inline-flex;
@@ -124,7 +124,7 @@ body {
   margin: 0;
 }
 .background h3 {
-  color: #5b3893;
+  color: #000000;
   font-weight: bold;
   font-size: 20px;
   margin: 8px;
@@ -145,17 +145,17 @@ body {
   font-size: 24px;
   letter-spacing: 1px;
   padding: 10px 0;
-  color: #5b3893;
-  border-bottom: 4px solid #5b3893;
+  color: #000000;
+  border-bottom: 4px solid #000000;
 }
 .subtitle-border {
-  border-bottom: 4px solid #5b3893;
+  border-bottom: 4px solid #000000;
 }
 .font-subtitle {
   font-family: "Raleway", sans-serif;
   font-size: 24px;
   letter-spacing: 1px;
-  color: #5b3893;
+  color: #000000;
 }
 .without-margin {
   margin: 0;
@@ -321,7 +321,7 @@ body {
 }
 .button-cv {
   padding: 10px 30px;
-  background-color: #5b3893;
+  background-color: #000000;
   border: none;
   font-weight: bold;
   letter-spacing: 2px;
@@ -342,7 +342,7 @@ body {
   color: white;
 }
 .habilidades span {
-  border-bottom: 4px solid #5b3893;
+  border-bottom: 4px solid #000000;
   padding-bottom: 5px;
 }
 .projects-clones h3 {
@@ -387,7 +387,7 @@ body {
 .info button {
   padding: 10px 25px;
   border: none;
-  background-color: #5b3893;
+  background-color: #000000;
   border-radius: 15px;
 }
 .info a {
@@ -460,7 +460,7 @@ body {
   color: grey;
 }
 .footer {
-  background-color: #5b3893;
+  background-color: #000000;
   text-align: center;
   padding: 50px 0;
 }
